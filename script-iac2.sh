@@ -18,3 +18,4 @@ unzip main.zip
 echo "Copiando arquivos para o Apache"
 cd linux-site-dio-main
 cp -R * /var/www/html
+echo "Processo concluído"
