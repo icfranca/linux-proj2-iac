@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#AUTOR: Israel Cavalcante
+#Aluno: Israel Cavalcante
 # Curso Linux para Iniciantes DIO / Santander
 
 echo "Atualizar repositórios e atualizar sistema"
